@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="288" viewBox="0 0 860 288">
+  <rect x="2" y="2" width="856" height="284" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-width="1.6" stroke-opacity="0.75">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.6s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="2" y="14" width="5" height="260" rx="2.5" fill="#22D3EE">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.8s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="34" cy="34" r="4.5" fill="#22D3EE">
+    <animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="46" y="39" font-size="12" font-weight="600" letter-spacing="1.1"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#22D3EE">ABOUT ME</text>
+
+  <text x="28" y="66" font-size="19" font-weight="700"
+        font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#F8FAFC">Hi there, I'm Anjali Kumari</text>
+
+  <text x="28" y="86" font-size="13"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#A78BFA">Full Stack Developer • Software Development Engineer</text>
+
+  <rect x="28.0" y="96" width="111.2" height="24" rx="12" fill="#1E293B" stroke="#22D3EE" stroke-opacity="0.45" /><text x="83.6" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#22D3EE">Patna, India</text><rect x="147.2" y="96" width="293.6" height="24" rx="12" fill="#1E293B" stroke="#22D3EE" stroke-opacity="0.45" /><text x="294.0" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#22D3EE">B.S. CS @ IIT Patna (CPI: 8.56/10.0)</text>
+  <text x="28" y="146" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#CBD5E1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze" />• Full Stack Web Developer and Computer Science undergraduate at IIT Patna with hands-on</text><text x="28" y="168" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#CBD5E1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze" />  experience in the MERN stack (MongoDB, Express.js, React.js, Node.js), Next.js, and</text><text x="28" y="190" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#CBD5E1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze" />  TypeScript.</text><text x="28" y="218" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#CBD5E1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.29s" dur="0.45s" fill="freeze" />• Skilled in designing RESTful APIs, building real-time WebSocket applications, optimizing web</text><text x="28" y="240" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#CBD5E1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.29s" dur="0.45s" fill="freeze" />  performance, and developing data pipelines &amp; BI dashboards with Python, SQL, and Power BI.</text>
+</svg>

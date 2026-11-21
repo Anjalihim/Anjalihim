@@ -27,20 +27,16 @@
 ---
 
 ### Hi there, I'm Anjali Kumari 👋
-**Full Stack Developer • Software Development Engineer**  
-📍 Patna, India | 🎓 B.S. in Computer Science, **IIT Patna** (CPI: 8.56/10.0)
-
-Full Stack Web Developer and Computer Science undergraduate at IIT Patna with hands-on experience in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), **Next.js**, and **TypeScript**. Skilled in designing RESTful APIs, building real-time WebSocket applications, optimizing web performance, and developing data pipelines & BI dashboards with **Python, SQL, and Power BI**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/intro-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/intro-light.svg" />
+  <img alt="Hi there, I'm Anjali Kumari" src="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/intro-light.svg" />
+</picture>
 
 ---
 
 ## 💼 Experience
 
-> **Data Analyst Intern — GUVI - HCL Technologies** *(Jun 2025 – Aug 2025 | Remote)*
->
-> * Engineered optimized SQL queries and Python scripts to clean and analyze **10,000+ raw data entries** with **99% data integrity**.
-> * Built **5+ interactive Power BI dashboards**, reducing executive reporting timelines by **25%**.
-> * Developed automated ETL pipelines using **Pandas** and **NumPy** for structured schema loading.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/experience-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/experience-light.svg" />
@@ -49,32 +45,28 @@ Full Stack Web Developer and Computer Science undergraduate at IIT Patna with ha
 ---
 
 ### 🚀 Featured Projects
-- **E-Commerce Web Application** (`React.js`, `Node.js`, `Express.js`, `MongoDB`, `Stripe API`, `JWT`)  
-  Full-stack e-commerce platform with JWT authentication, cart persistence, Stripe payments, 12+ RESTful APIs, and optimized MongoDB indexing (35% lower search latency).
+- **E-Commerce Web Application** 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-ecommerce-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-ecommerce-light.svg" />
   <img alt="E-Commerce Web Application" src="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-ecommerce-light.svg" />
 </picture>
 
-- **Real-Time Chat Application** (`React.js`, `Node.js`, `Express.js`, `Socket.io`, `MongoDB`, `Bcrypt`)  
-  Real-time messaging app supporting 100+ concurrent WebSocket connections with sub-80ms latency and secure password hashing.
+- **Real-Time Chat Application** 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-chat-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-chat-light.svg" />
   <img alt="Real-Time Chat Application" src="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-chat-light.svg" />
 </picture>
 
-- **Task Management System (CRUD)** (`Next.js`, `TypeScript`, `Node.js`, `Express.js`, `MongoDB`)  
-  Responsive task portal with real-time status filtering, priority sorting, and server-side pagination.
+- **Task Management System (CRUD)** 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-tasks-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-tasks-light.svg" />
   <img alt="Task Management Application" src="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-tasks-light.svg" />
 </picture>
 
-- **Personal Developer Portfolio** (`Next.js`, `React.js`, `Tailwind CSS`, `Vercel`)  
-  Deployed portfolio achieving **98+ Lighthouse scores** across performance, accessibility, and SEO.
+- **Personal Developer Portfolio** 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-portfolio-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/project-portfolio-light.svg" />
@@ -83,11 +75,7 @@ Full Stack Web Developer and Computer Science undergraduate at IIT Patna with ha
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL (PostgreSQL, MySQL), Python
-- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, Socket.io
-- **Databases:** MongoDB, Mongoose ORM, PostgreSQL, Firebase
-- **Tools & Cloud:** Git, GitHub, Postman, Power BI, VS Code, npm, Docker (Basic), Vercel
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/tools-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/tools-light.svg" />
@@ -97,8 +85,7 @@ Full Stack Web Developer and Computer Science undergraduate at IIT Patna with ha
 ---
 
 ### 📜 Certifications
-- **Full Stack Web Development & Data Analytics** — GUVI - HCL
-- **Data Science, Power BI & Full Stack Web Development** — WsCube Tech
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/certifications-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/certifications-light.svg" />

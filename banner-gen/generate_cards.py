@@ -107,7 +107,23 @@ def make_card_svg(
 def main() -> None:
     files: dict[str, str] = {}
 
-    # 1. Experience
+    # Intro Card
+    intro_title = "Hi there, I'm Anjali Kumari"
+    intro_sub = "Full Stack Developer • Software Development Engineer"
+    intro_pills = ["Patna, India", "B.S. CS • IIT Patna (8.56/10.0)"]
+    intro_bullets = [
+        "Patna, India | B.S. in Computer Science, IIT Patna (CPI: 8.56/10.0).",
+        "Full Stack Web Developer and Computer Science undergraduate at IIT Patna with hands-on experience in the MERN stack (MongoDB, Express.js, React.js, Node.js), Next.js, and TypeScript.",
+        "Skilled in designing RESTful APIs, building real-time WebSocket applications, optimizing web performance, and developing data pipelines & BI dashboards with Python, SQL, and Power BI.",
+    ]
+    files["intro-dark.svg"] = make_card_svg(
+        860, 255, "dark", "INTRODUCTION", intro_title, intro_sub, intro_pills, intro_bullets, "#22D3EE"
+    )
+    files["intro-light.svg"] = make_card_svg(
+        860, 255, "light", "INTRODUCTION", intro_title, intro_sub, intro_pills, intro_bullets, "#0891B2"
+    )
+
+    # Experience
     exp_title = "Data Analyst Intern — GUVI - HCL Technologies"
     exp_sub = "Jun 2025 – Aug 2025 | Remote"
     exp_bullets = [
@@ -122,7 +138,7 @@ def main() -> None:
         860, 235, "light", "EXPERIENCE", exp_title, exp_sub, [], exp_bullets, "#059669"
     )
 
-    # 2. Featured Projects
+    # Featured Projects
     projects = [
         {
             "slug": "ecommerce",
@@ -179,7 +195,7 @@ def main() -> None:
             860, 215, "light", "FEATURED PROJECT", p["title"], p["sub"], p["pills"], p["bullets"], p["light_accent"]
         )
 
-    # 3. Tools & Tech Stack
+    # Tools & Technologies
     tools_title = "Tools & Technologies"
     tools_sub = "Full-Stack Development, Data Analytics & Developer Workflow"
     tools_pills = ["React.js", "Next.js", "TypeScript", "Node.js", "MongoDB", "Python", "Power BI"]
@@ -195,7 +211,7 @@ def main() -> None:
         860, 245, "light", "TOOLS & STACK", tools_title, tools_sub, tools_pills, tools_bullets, "#0891B2"
     )
 
-    # 4. Certifications
+    # Certifications
     cert_title = "Certifications"
     cert_sub = "Verified Training & Skill Credentials"
     cert_bullets = [
