@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="216" viewBox="0 0 860 216">
+  <rect x="2" y="2" width="856" height="212" rx="14" fill="#FFFFFF" stroke="#0891B2" stroke-width="1.6" stroke-opacity="0.75">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.6s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="2" y="14" width="5" height="188" rx="2.5" fill="#0891B2">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.8s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="34" cy="34" r="4.5" fill="#0891B2">
+    <animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="46" y="39" font-size="12" font-weight="600" letter-spacing="1.1"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0891B2">FEATURED PROJECT</text>
+
+  <text x="28" y="66" font-size="19" font-weight="700"
+        font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#0F172A">Real-Time Chat Application</text>
+
+  <text x="28" y="86" font-size="13"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#7C3AED">Featured Full-Stack Project</text>
+
+  <rect x="28.0" y="96" width="80.8" height="24" rx="12" fill="#EEF2FF" stroke="#0891B2" stroke-opacity="0.45" /><text x="68.4" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0891B2">React.js</text><rect x="116.8" y="96" width="73.2" height="24" rx="12" fill="#EEF2FF" stroke="#0891B2" stroke-opacity="0.45" /><text x="153.4" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0891B2">Node.js</text><rect x="198.0" y="96" width="96.0" height="24" rx="12" fill="#EEF2FF" stroke="#0891B2" stroke-opacity="0.45" /><text x="246.0" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0891B2">Express.js</text><rect x="302.0" y="96" width="73.2" height="24" rx="12" fill="#EEF2FF" stroke="#0891B2" stroke-opacity="0.45" /><text x="338.6" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0891B2">MongoDB</text><rect x="383.2" y="96" width="96.0" height="24" rx="12" fill="#EEF2FF" stroke="#0891B2" stroke-opacity="0.45" /><text x="431.2" y="112" text-anchor="middle" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0891B2">WebSockets</text>
+  <text x="28" y="146" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#334155" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze" />• Real-time messaging application with instant event delivery, room/user state handling, and</text><text x="28" y="168" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#334155" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze" />  persistent message history backed by MongoDB.</text>
+</svg>

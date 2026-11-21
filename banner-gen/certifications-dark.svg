@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210">
+  <rect x="2" y="2" width="856" height="206" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-width="1.6" stroke-opacity="0.75">
+    <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.6s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="2" y="14" width="5" height="182" rx="2.5" fill="#10B981">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.8s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cx="34" cy="34" r="4.5" fill="#10B981">
+    <animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="46" y="39" font-size="12" font-weight="600" letter-spacing="1.1"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#10B981">CERTIFICATIONS</text>
+
+  <text x="28" y="66" font-size="19" font-weight="700"
+        font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#F8FAFC">Certifications</text>
+
+  <text x="28" y="86" font-size="13"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#A78BFA">Verified Training &amp; Skill Credentials</text>
+
+  
+  <text x="28" y="114" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#F8FAFC" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze" />• Data Analytics &amp; Web Development — GUVI - HCL Technologies.</text><text x="28" y="142" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" fill="#F8FAFC" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.29s" dur="0.45s" fill="freeze" />• Data Analytics, Power BI &amp; Web Development — WsCube Tech.</text>
+</svg>
