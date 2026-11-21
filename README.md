@@ -1,4 +1,12 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/light.svg" />
+    <img alt="Anjali Kumari" src="https://raw.githubusercontent.com/Anjalihim/Anjalihim/main/light.svg" />
+  </picture>
+</div>
+
+<div align="center">
 
 <!-- CONTRIBUTION SNAKE -->
 <picture>
