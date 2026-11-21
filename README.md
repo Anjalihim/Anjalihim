@@ -1,63 +1,60 @@
-<!--
-  SETUP: Replace every YOUR-USERNAME with your GitHub username.
-  Add repo/demo links to the Projects table later.
-  Do NOT add phone number or email anywhere.
--->
+<div align="center">
 
-<p align="center">
-  <img src="assets/anjali-hero.svg" alt="Anjali Kumari - Full Stack Developer | Software Development Engineer" width="100%">
-</p>
+<!-- CONTRIBUTION SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjalihim/Anjalihim/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Anjalihim/Anjalihim/output/github-snake.svg" />
+</picture>
 
-## About me
+<br/><br/>
 
-Hi, I'm **Anjali Kumari**, a Computer Science undergraduate at **IIT Patna** (CPI 8.56/10). I build full-stack web apps with the MERN stack, Next.js and TypeScript, design RESTful APIs, work with real-time WebSockets, and turn data into dashboards using Python, SQL and Power BI.
+<!-- SOCIAL BADGES (No phone number or Gmail) -->
+<a href="https://www.linkedin.com/in/anjali-kumari-729306317">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-## Experience
+</div>
 
-**Data Analyst Intern, GUVI - HCL Technologies** (Jun 2025 - Aug 2025, Remote)
+---
 
-- Wrote SQL queries and Python scripts to clean and analyze 10,000+ raw data entries with 99% data integrity.
-- Built 5+ interactive Power BI dashboards, cutting executive reporting time by 25%.
-- Developed automated ETL pipelines with Pandas and NumPy.
+### Hi there, I'm Anjali Kumari 👋
+**Full Stack Developer • Software Development Engineer**  
+📍 Patna, India | 🎓 B.S. in Computer Science, **IIT Patna** (CPI: 8.56/10.0)
 
-## Selected projects
+Full Stack Web Developer and Computer Science undergraduate at IIT Patna with hands-on experience in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), **Next.js**, and **TypeScript**. Skilled in designing RESTful APIs, building real-time WebSocket applications, optimizing web performance, and developing data pipelines & BI dashboards with **Python, SQL, and Power BI**.
 
-| Project | Highlights | Tech |
-|---|---|---|
-| **E-Commerce Web App** | JWT auth, cart persistence, Stripe payments, 12+ REST endpoints, 35% faster DB search through MongoDB indexing | React.js, Node.js, Express.js, MongoDB, Stripe, JWT |
-| **Real-Time Chat App** | 100+ concurrent WebSocket connections, sub-80ms latency, bcrypt auth | React.js, Node.js, Express.js, Socket.io, MongoDB |
-| **Task Management System** | Typed CRUD portal with status filtering, priority sorting, server-side pagination | Next.js, TypeScript, Node.js, Express.js, MongoDB |
-| **Developer Portfolio** | 98+ Lighthouse scores for performance, accessibility and SEO | Next.js, React.js, Tailwind CSS, Vercel |
+---
 
-## Skills
+### 💼 Experience
+**Data Analyst Intern — GUVI - HCL Technologies** *(Jun 2025 – Aug 2025 | Remote)*
+- Engineered optimized SQL queries and Python scripts to clean and analyze **10,000+ raw data entries** with **99% data integrity**.
+- Built **5+ interactive Power BI dashboards**, reducing executive reporting timelines by **25%**.
+- Developed automated ETL pipelines using **Pandas** and **NumPy** for structured schema loading.
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, HTML5, CSS3
-- **Frameworks and libraries:** React.js, Next.js, Redux Toolkit, Tailwind CSS
-- **Databases:** MongoDB, Mongoose, PostgreSQL, MySQL, Firebase
-- **Tools:** Git, GitHub, Postman, Power BI, VS Code, npm, Docker (basic)
+---
 
-## Certifications
+### 🚀 Featured Projects
+- **E-Commerce Web Application** (`React.js`, `Node.js`, `Express.js`, `MongoDB`, `Stripe API`, `JWT`)  
+  Full-stack e-commerce platform with JWT authentication, cart persistence, Stripe payments, 12+ RESTful APIs, and optimized MongoDB indexing (35% lower search latency).
+- **Real-Time Chat Application** (`React.js`, `Node.js`, `Express.js`, `Socket.io`, `MongoDB`, `Bcrypt`)  
+  Real-time messaging app supporting 100+ concurrent WebSocket connections with sub-80ms latency and secure password hashing.
+- **Task Management System (CRUD)** (`Next.js`, `TypeScript`, `Node.js`, `Express.js`, `MongoDB`)  
+  Responsive task portal with real-time status filtering, priority sorting, and server-side pagination.
+- **Personal Developer Portfolio** (`Next.js`, `React.js`, `Tailwind CSS`, `Vercel`)  
+  Deployed portfolio achieving **98+ Lighthouse scores** across performance, accessibility, and SEO.
 
-- GUVI - HCL: Full Stack Web Development and Data Analytics
-- WsCube Tech: Data Science, Power BI and Full Stack Web Development
+---
 
-## Contribution heatmap
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL (PostgreSQL, MySQL), Python
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, Socket.io
+- **Databases:** MongoDB, Mongoose ORM, PostgreSQL, Firebase
+- **Tools & Cloud:** Git, GitHub, Postman, Power BI, VS Code, npm, Docker (Basic), Vercel
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/701A3D/YOUR-USERNAME" alt="GitHub contribution chart" width="100%">
-</p>
+---
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=190B12&title_color=C77B9B&text_color=F8F0F3&icon_color=E5B5C7">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=190B12&title_color=C77B9B&text_color=F8F0F3">
-</p>
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-
-<p align="center">
-  <img src="assets/anjali-footer.svg" alt="Create with intention. Ship with care." width="100%">
-</p>
+### 📜 Certifications
+- **Full Stack Web Development & Data Analytics** — GUVI - HCL
+- **Data Science, Power BI & Full Stack Web Development** — WsCube Tech
