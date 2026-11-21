@@ -34,12 +34,13 @@ Full Stack Web Developer and Computer Science undergraduate at IIT Patna with ha
 
 ---
 
-### 💼 Experience
-**Data Analyst Intern — GUVI - HCL Technologies** *(Jun 2025 – Aug 2025 | Remote)*
-- Engineered optimized SQL queries and Python scripts to clean and analyze **10,000+ raw data entries** with **99% data integrity**.
-- Built **5+ interactive Power BI dashboards**, reducing executive reporting timelines by **25%**.
-- Developed automated ETL pipelines using **Pandas** and **NumPy** for structured schema loading.
+## 💼 Experience
 
+> **Data Analyst Intern — GUVI - HCL Technologies** *(Jun 2025 – Aug 2025 | Remote)*
+>
+> * Engineered optimized SQL queries and Python scripts to clean and analyze **10,000+ raw data entries** with **99% data integrity**.
+> * Built **5+ interactive Power BI dashboards**, reducing executive reporting timelines by **25%**.
+> * Developed automated ETL pipelines using **Pandas** and **NumPy** for structured schema loading.
 ---
 
 ### 🚀 Featured Projects
